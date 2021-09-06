@@ -5,7 +5,7 @@
 
 
 
-<img src="http://img.shields.io/badge/React-61DAFB?style-flaat-square&logo=React&logoColor=Black"/>
+<img src="http://img.shields.io/badge/React-61DAFB?style-flat-square&logo=React&logoColor=Black"/>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
